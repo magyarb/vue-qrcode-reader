@@ -21,13 +21,3 @@ export class StreamApiNotSupportedError extends Error {
     this.name = "StreamApiNotSupportedError";
   }
 }
-
-export class InsecureContextError extends Error {
-  constructor() {
-    super(
-      "camera access is only permitted in secure context. Use HTTPS or localhost rather than HTTP."
-    );
-
-    this.name = "InsecureContextError";
-  }
-}
