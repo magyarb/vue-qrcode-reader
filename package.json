@@ -1,10 +1,10 @@
 {
   "name": "@magyarb/vue-qrcode-reader",
   "description": "A set of Vue.js components for detecting and decoding QR codes.",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "author": {
-    "name": "Niklas Gruhn",
-    "email": "niklas.gruhn@gmail.com"
+    "name": "Balazs Magyar",
+    "email": "magyarb94@gmail.com"
   },
   "keywords": [
     "vue",
